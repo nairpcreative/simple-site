@@ -8,3 +8,7 @@ body {
 .curved {
     border-radius: 10px;
 }
+
+.banner-image {
+    width: 700px;
+}
