@@ -10,5 +10,7 @@ body {
 }
 
 .banner-image {
-    width: 700px;
+    width: 1100px;
+}
+.s-container {max-width: 1100 px;
 }
