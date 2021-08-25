@@ -12,5 +12,6 @@ body {
 .banner-image {
     width: 1100px;
 }
-.s-container {max-width: 1100 px;
+.s-container{ 
+    max-width: 1100px;
 }
